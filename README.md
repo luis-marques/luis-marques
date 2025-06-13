@@ -1,7 +1,7 @@
 ### Luís Marques
 - 🎓 I'm currently a PhD Candidate in Robotics at the University of Michigan, Ann Arbor.
 - 🤖 My focus is to provide provable safety guarantees for autonomous systems operating under uncertainty.
-- 🌐 Check [my webpage](https://luis-marques.github.io/) for more updated information!
+- 🌐 Check [my webpage](https://marquesluis.com/) for more updated information!
 
 <!--
 **luis-marques/luis-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
